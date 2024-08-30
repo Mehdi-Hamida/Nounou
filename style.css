@@ -552,7 +552,7 @@ footer#contact .copyright a {
 
 @media (min-width: 1024px) {
   footer {
-    background: url(./img/welcome.webp) 102% 100% no-repeat var(--light-pink);
+    background: url(./img/bienvenue.webp) 102% 100% no-repeat var(--light-pink);
     transition: all ease 0.6s;
   }
   footer:has(.flex-row:hover) {
